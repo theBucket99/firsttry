@@ -1,3 +1,4 @@
 import pygame
+import threading
 
-print("prepair to cry")
+print("loading...")
