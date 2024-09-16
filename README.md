@@ -1,2 +1,2 @@
 # firsttry
-let me try to make something
+make a game
